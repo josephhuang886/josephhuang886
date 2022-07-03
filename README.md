@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephhuang886
 - 👀 I’m interested in cats
-- 🌱 I’m currently learning python & docker
+- 🌱 I’m currently learning python, docker & github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joseph.huang.886@gmail.com
 
